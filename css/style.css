@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css?family=Amiko:400,600|Roboto:300,400,500');
+
+
+
+body{
+	color:#fff;
+	font-size: 14px;
+	font-family: Amiko;
+	
+}
+
+
+.titulo{
+	font-family: Roboto;
+}
+
+
+.titulo span{
+	display:block;}
+
+#sec-thrive{
+	background-image: url(../img/120319-FA-Boston-1149_2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	color: #fff;
+	
+}
+
+#sec-thrive p{
+	text-align: justify;
+	position: relative;
+	
+	
+	
+}
+
+#sec-thrive h2{
+	font-size: 25px;
+	
+	
+}
+.btn-rectangulo{
+	border-radius: 0;
+	background-color: #FF6E00;
+	border-color: #FF6E00;
+	margin-left: 150px;
+	position: relative;
+	font-size: 14px;
+	padding-top: 2px;
+}
+
+
+.caja-negra{
+	background-color: rgba(0,0,0,0.50);
+	padding: 20px;
+}
+
+#food-bank{
+	background-color: #FFAE00;
+	padding: 20px;
+}
+
+#people{
+	background-color: #FFAE00;
+	margin: auto;
+	padding-bottom: 20px;
+}
+
+#people img{
+	margin-left: 40px;
+}
+
+hr{
+	color:#fff;
+}
+
+#sec-help{
+	color:#000;
+	text-align: center;
+	padding: 80px;
+	
+}
+
+#sec-help img{
+	padding-bottom: 10px;
+}
+
+.help-solve{
+	font-family: Roboto;
+	font-weight: 200;
+	padding: 20px 20px;
+}
+
+
+.fondo-gris{
+	background-color: #ECECEC;
+	
+	
+}
+
+
+#sec-help img{
+	padding-top: 20px;
+}
+
+
+
+footer{
+background-color: #3D3D3D;
+padding: 20px;
+}
+
+footer a{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 5px;
+	
+}
+
+
+footer img{
+	margin-bottom: 20px;
+	
+}
+
+#donate-ourwork{
+	color:#000;
+}
+
+
+#donate-ourwork{
+	text-align: center;
+	padding: 60px;
+
+}
+
+#donate-ourwork p{
+	text-align: center;
+}
+
+#donate-ourwork h6{
+	text-align: justify;
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+
+.btn-primary{
+	background-color: #FF6E00;
+	border-color: #FF6E00;
+	border-radius: 0%;
+	font-size: 25px;
+	width:200px;
+	margin-bottom: 20px;
+}
+
+.btn-primary:hover{
+	background-color:#F8971C;
+	border-color: #F8971C;
+}
+
+.caja-negra2{
+ background-color: rgba(0,0,0,0.50);
+ padding: 20px;}
+
+.persons span{
+	display:block;}
+
+#food-bank p{
+	font-size: 14px;}
+
+#food-bank img{
+	width: 250px;
+	padding-bottom: 50px;
+	margin-right: 10px;
+}
+	
+.find::after{
+	content:'';
+	height: 1px;
+	background-color: #fff;
+	width: 700px;
+	display: block;
+margin-top: 20px
+}
+
+#your-impact{
+	color: #000;
+}
+
+.btn-secondary{
+	background-color:#FF6E00;
+	border-color: #FF6E00;
+	border-radius: 0%;
+	margin-bottom:5px;
+}
+
+
+.btn-secondary:hover{
+	background-color:#FF6E00;
+	border-color: #FF6E00;
+	border-radius: 0%;
+	margin-bottom:5px;
+}
+
+#your-impact{
+	background-image: url(../img/_DSC5229crop.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 100px 0;
+	
+}
+
+#your-impact h2{
+	text-align: center;
+	color:#28A745;
+	font-size: 30px;
+}
+
+
+.caja-blanca{
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 20px;
+
+}
+
+.btn-secondary{
+	margin-right: 5px;
+	padding: 2px 20px;
+	font-size: 15px;
+	
+}
+
+.btn-submit{
+	background-color: #DC0003;
+	color: #fff;
+}
+.btn a{
+	text-decoration: none;
+}
+
+
